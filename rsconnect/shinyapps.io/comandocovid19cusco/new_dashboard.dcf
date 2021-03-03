@@ -1,0 +1,12 @@
+name: new_dashboard
+title: new_dashboard
+username:
+account: comandocovid19cusco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3706891
+bundleId: 4277888
+url: https://comandocovid19cusco.shinyapps.io/new_dashboard/
+when: 1614400557.5063
+asMultiple: FALSE
+asStatic: FALSE
